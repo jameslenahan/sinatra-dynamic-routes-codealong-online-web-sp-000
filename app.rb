@@ -22,5 +22,7 @@ class App < Sinatra::Base
   end
 
   # Code your final two routes here:
+  get "multiply/:number" do
+    @
 
 end
